@@ -5,3 +5,4 @@ qrcode>=7.4
 Pillow>=10.0
 validators>=0.22
 python-dotenv>=1.0
+gunicorn
